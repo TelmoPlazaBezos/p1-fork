@@ -7,18 +7,10 @@ El propósito de esta tarea es preparar al equipo del alumno para futuras activi
 
 Para comenzar la práctica, se debe crear un repositorio y un codespace en nuestro perfil.
 
-#### Creación del repositorio para la práctica:
-![Creación del repositorio](https://github.com/TelmoPlazaBezos/p1-fork/blob/main/fotos/Repo%20p1%20creado.PNG)
 _______________________________________________________________________________________________________________________________________________
-
-#### Creación del codespace para ejecutar los comandos dentro del repo:
-![Creación del codespace](https://github.com/TelmoPlazaBezos/p1-fork/blob/main/fotos/Create%20codespace%20on%20main.PNG)
-_______________________________________________________________________________________________________________________________________________
-
+#### Creación del fork del repositorio
 Luego, se realiza un fork del repositorio, lo que permite crear una copia personal del proyecto en la cuenta del alumno. Esto facilita la gestión de cambios, la personalización y la contribución al repositorio original a través de solicitudes de extracción.
 
-#### Creación del fork del repositorio
-![Creación del fork del repositorio](https://github.com/TelmoPlazaBezos/p1-fork/blob/main/fotos/create%20p1-fork.PNG)
 _______________________________________________________________________________________________________________________________________________
 
 ### Comandos git básicos

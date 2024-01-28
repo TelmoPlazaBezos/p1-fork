@@ -1,24 +1,30 @@
-# Práctica 1
+# Práctica 1 PAT: Entorno de desarrollo
 
-Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
+El propósito de esta tarea es preparar al equipo del alumno para futuras actividades y proporcionar una introducción básica sobre el uso de Git y GitHub.
 
-## ¿Como probar en la nube?
+## Git y Github
+### Creación del repositorio y del workspace
 
-[Github-Codespaces](https://github.com/features/codespaces)
+Para comenzar la práctica, se debe crear un repositorio y un codespace en nuestro perfil.
 
-## Comandos git básicos
+#### Creación del repositorio para la práctica:
+![Creación del repositorio](https://github.com/TelmoPlazaBezos/p1-fork/blob/main/fotos/Repo%20p1%20creado.PNG)
+_______________________________________________________________________________________________________________________________________________
 
-```
-git clone https://github.com/gitt-3-pat/p1
-git status
-git add .
-git commit -m "TU MENSAJE"
-git push
+#### Creación del codespace para ejecutar los comandos dentro del repo:
+![Creación del codespace](https://github.com/TelmoPlazaBezos/p1-fork/blob/main/fotos/Create%20codespace%20on%20main.PNG)
+_______________________________________________________________________________________________________________________________________________
 
-git checkout -b feature/1
-git checkout main
-```
+Luego, se realiza un fork del repositorio, lo que permite crear una copia personal del proyecto en la cuenta del alumno. Esto facilita la gestión de cambios, la personalización y la contribución al repositorio original a través de solicitudes de extracción.
 
-## ¿Cómo escribir un README.md con formato?
+#### Creación del fork del repositorio
+![Creación del fork del repositorio](https://github.com/TelmoPlazaBezos/p1-fork/blob/main/fotos/create%20p1-fork.PNG)
+_______________________________________________________________________________________________________________________________________________
 
-[Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+### Comandos git básicos
+
+Se ha creado un archivo [git.pdf](https://github.com/TelmoPlazaBezos/p1-fork/blob/main/git.pdf) con la explicación y la ejecución de los comandos básicos de Git.
+
+## Entorno de desarrollo en Java
+
+La instalación de los software VSCode e IntelliJ, junto con las versiones de Maven y Java 17, se detalla en el archivo [entorno.pdf](https://github.com/TelmoPlazaBezos/p1-fork/blob/main/entorno.pdf), donde se comprueba su funcionamiento.

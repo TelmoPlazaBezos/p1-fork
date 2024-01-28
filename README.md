@@ -13,7 +13,7 @@ ________________________________________________________________________________
 #### Creación del fork del repositorio
 Luego, se realiza un fork del repositorio, lo que permite crear una copia personal del proyecto en la cuenta del alumno. Esto facilita la gestión de cambios, la personalización y la contribución al repositorio original a través de solicitudes de extracción.
 
-![Muestra del repositorio y de su fork ](https://github.com/TelmoPlazaBezos/p1-fork/blob/main/fotos/fotorepo.jpg)
+![Muestra del repositorio y de su fork ](https://github.com/TelmoPlazaBezos/p1-fork/blob/main/fotorepo.jpg)
 _______________________________________________________________________________________________________________________________________________
 
 ### Comandos git básicos
